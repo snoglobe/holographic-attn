@@ -19,6 +19,7 @@ import time
 from typing import List, Tuple, Dict, Any
 from dataclasses import dataclass
 from holographic_attention import HolographicAttention
+from holographic_attention_prod import HolographicAttentionProd
 
 
 @dataclass
